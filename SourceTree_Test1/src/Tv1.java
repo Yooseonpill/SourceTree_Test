@@ -1,4 +1,4 @@
-class Tv {
+class Tv1 {
 	boolean power;
 	int channel;
 
